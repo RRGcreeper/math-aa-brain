@@ -1,0 +1,16 @@
+# Question and mark scheme images (too large — distributed via Releases ZIP)
+Questions/Past Papers/*.png
+Questions/Christos-Practice/*.png
+Notes/Christos-Notes/*.png
+Formulas/Booklet-Pages/*.png
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+# Obsidian internals
+.obsidian/workspace
+.obsidian/cache
+.obsidian/workspace.json
+# Debug files
+*.txt
