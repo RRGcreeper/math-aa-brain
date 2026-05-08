@@ -1,0 +1,11 @@
+/* Math AA Brain — Topic Color Coding for Obsidian Graph View */
+.graph-view.color-fill-tag .math-algebra    { color: #4A90D9; }
+.graph-view.color-fill-tag .math-functions  { color: #27AE60; }
+.graph-view.color-fill-tag .math-geometry   { color: #E67E22; }
+.graph-view.color-fill-tag .math-stats      { color: #8E44AD; }
+.graph-view.color-fill-tag .math-calculus   { color: #E74C3C; }
+.graph-view.color-fill-tag .math-paper1     { color: #F1C40F; }
+.graph-view.color-fill-tag .math-paper2     { color: #1ABC9C; }
+.graph-view.color-fill-tag .math-paper3     { color: #E84393; }
+.graph-view.color-fill-tag .math-formulas   { color: #BDC3C7; }
+.graph-view.color-fill-tag .math-christos   { color: #F39C12; }
